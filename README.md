@@ -7,11 +7,9 @@ Presented on September 13, 2016 at International Conference on Theory in Informa
 # Tutorial Outline
 
 1. Introduction
-2. Terminology
-3. Entity Linking
-4. Entity Retrieval
-5. Using Knowledge Graphs for Text Retrieval
-6. Open Research Questions
-7. Industrial Considerations
-8. Discussion
+2. Entity Linking
+3. Entity Retrieval
+4. Using Knowledge Graphs for Text Retrieval
+5. Open Challenges and Discussion
+7. Discussion
 
