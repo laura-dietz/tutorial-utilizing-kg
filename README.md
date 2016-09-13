@@ -12,3 +12,6 @@ Presented on September 13, 2016 at International Conference on Theory in Informa
 4. Using Knowledge Graphs for Text Retrieval
 5. Open Challenges and Discussion
 
+References (and more):
+
+- http://www.citeulike.org/user/lauradietz/tag/kb4ir
