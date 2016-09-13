@@ -17,5 +17,5 @@ References (and more):
 - http://www.citeulike.org/user/lauradietz/tag/kb4ir
 
 In order to improve this tutorial, we need your feedback!
-(https://goo.gl/forms/eW7CXbzkV3elLIJv2)
+https://goo.gl/forms/eW7CXbzkV3elLIJv2
 
