@@ -15,6 +15,7 @@ Presented on September 13, 2016 at International Conference on Theory in Informa
 References (and more):
 
 - http://www.citeulike.org/user/lauradietz/tag/kb4ir
+- https://www.mendeley.com/groups/3339761/entity-linking-and-retrieval/
 
 In order to improve this tutorial, we need your feedback!
 https://goo.gl/forms/eW7CXbzkV3elLIJv2
