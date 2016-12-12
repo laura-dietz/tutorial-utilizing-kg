@@ -1,8 +1,8 @@
-# Resources for Tutorial on "Utilizing Knowledge Bases in Text-centric Information Retrieval"
+# Resources for Tutorial on "Utilizing Knowledge Graphs in Text-centric Information Retrieval"
 
 Presenters: Laura Dietz, Alexander Kotov, Edgar Meij
 
-Presented on September 13, 2016 at International Conference on Theory in Information Retrieval (ICTIR)
+Presented on February 9, 20167 at International Conference on Web Search and Data Mining (WSDM)
 
 # Tutorial Outline
 
