@@ -2,7 +2,7 @@
 
 Presenters: Laura Dietz, Alexander Kotov, Edgar Meij
 
-Presented on February 9, 20167 at International Conference on Web Search and Data Mining (WSDM)
+Presented on February 6, 2017 at Tenth ACM International Conference on Web Search and Data Mining (WSDM)
 
 # Tutorial Outline
 
