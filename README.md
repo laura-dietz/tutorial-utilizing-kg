@@ -23,3 +23,6 @@ https://goo.gl/forms/K4Tl43Tee6Td2dvD3
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSx55GJXtJLm57ckFywIoDkdo30CIbKkv7YBvjTPQjhAIWeA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
+Also join out mailinglist at google groups:
+https://groups.google.com/forum/#!forum/kg4ir
+
