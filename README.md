@@ -12,7 +12,14 @@ Presented on February 6, 2017 at Tenth ACM International Conference on Web Searc
 4. Using Knowledge Graphs for Text Retrieval
 5. Open Challenges and Discussion
 
-References (and more):
+# Tools
+
+# Data Sets
+
+
+
+
+# References (and more):
 
 - http://www.citeulike.org/user/lauradietz/tag/kb4ir
 - https://www.mendeley.com/groups/3339761/entity-linking-and-retrieval/
