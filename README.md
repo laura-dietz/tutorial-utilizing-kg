@@ -18,7 +18,7 @@ This tutorial was presented at the following venues.
 
 ## References (and more):
 
-- https://www.mendeley.com/groups/3339761/entity-linking-and-retrieval/
+- https://www.mendeley.com/community/entity-linking-and-retrieval/
 
 Also join out mailinglist at google groups:
 https://groups.google.com/forum/#!forum/kg4ir
