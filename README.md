@@ -2,9 +2,13 @@
 
 Presenters: Laura Dietz, Alexander Kotov, Edgar Meij
 
-Presented on February 6, 2017 at Tenth ACM International Conference on Web Search and Data Mining (WSDM)
+This tutorial was presented at the following venues. 
 
-# Tutorial Outline
+- On September 13, 2016 at the International Conference on the Theory of Information Retrieval (ICTIR) \[[slides](https://github.com/laura-dietz/tutorial-kb4ir), [ref](https://doi.org/10.1145/2970398.2970441)\]
+- On February 6, 2017 at Tenth ACM International Conference on Web Search and Data Mining (WSDM): \[[slides](wsdm2017/), [ref](https://doi.org/10.1145/3018661.3022756)\]
+- On July 8th, 2018 at the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR): \[[slides](sigir2018/), [ref](https://doi.org/10.1145/3209978.3210187)\]
+
+## Tutorial Outline
 
 1. Introduction
 2. Entity Linking
@@ -12,25 +16,11 @@ Presented on February 6, 2017 at Tenth ACM International Conference on Web Searc
 4. Using Knowledge Graphs for Text Retrieval
 5. Open Challenges and Discussion
 
-# Tools
+## References (and more):
 
-# Data Sets
-
-
-
-
-# References (and more):
-
-- http://www.citeulike.org/user/lauradietz/tag/kb4ir
 - https://www.mendeley.com/groups/3339761/entity-linking-and-retrieval/
 
 Also join out mailinglist at google groups:
 https://groups.google.com/forum/#!forum/kg4ir
-
-In order to improve this tutorial, we need your feedback!
-https://goo.gl/forms/K4Tl43Tee6Td2dvD3
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSx55GJXtJLm57ckFywIoDkdo30CIbKkv7YBvjTPQjhAIWeA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 
 
